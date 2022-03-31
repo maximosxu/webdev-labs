@@ -11,9 +11,8 @@ Add some style blocks below this line to style the card.
 */
 
 section {
-    border: dotted 1px #CCC; 
-    width: 50vh;
-    height: 55vh;   
+    border: solid 1px #CCC; 
+    width: 350px;  
 }
 
 h2,p,button {
